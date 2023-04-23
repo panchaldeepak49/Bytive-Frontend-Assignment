@@ -29,6 +29,7 @@ const Home = () => {
             <h4 className='details'>{value.address} :<span>{value.address1}</span></h4>
         </div>
     </div>
+
         )
     })
    }
